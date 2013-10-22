@@ -1,0 +1,21 @@
+1. kupno online (ojciec zamawia dla rodziny bilety przez internet)
+a) za³o¿enie konta z podaniem informacji z dowodu osobistego ojca oraz mail, nr kontaktowy
+b) wybór iloœci miejsc (2 doros³e + 2 dzieci) (zni¿ka na rodzinne)
+c) wybór miejsc (dla rodziny odpowiedni sektor) w odpowiedniej iloœci
+d) ojciec dokonuje p³atnoœci przez odpowiedni skrypt (jak na allegro) i po kilku klikniêciach jest odwo³any do strony swojego banku, dokonuje p³atnoœci w wypisanej ju¿ kwocie
+e) Przelew zostaje potwierdzony nastêpnego dnia, po czym ojciec dostaje na swój mail oryginalny bilet, który powinien wydrukowaæ
+f) rodzina zadowolona wchodzi na stadion na wydarzenie potwierdzaj¹c przy bramce poprawnoœæ biletów (sprawdzenie czy dzieci s¹ rzeczywiœcie dzieæmi)
+2. kupno przy kasie (Student + studentka chc¹ kupiæ dla siebie bilet)
+a) podchodz¹ do kasy, podaj¹ swój dowód, nastêpuje spisanie danych przez kasjerkê do bazy danych
+b) udzielenie zni¿ki dla studentów (20% dajmy na to)
+c) para ma prawo do wybrania sobie miejsc na pokazanym przez kasjerkê planie stadionu
+d) nastepuje p³atnoœæ gotówkowa
+e) wydruk biletu
+f) studenci z braku jedzenia decyduj¹ siê sprzedaæ bilety, na szczêœcie nie jest jeszcze 5 dni przed wydarzeniem, wiêc mo¿e to zrobiæ przez internet (po tych dniach mo¿e to zrobiæ wy³¹cznie w kasie)
+g) w zak³adce "swoje bilety" dokonuje anulacji, nastêpnie dokonywany jest przelew pieniêdzy z powrotem na konto g³odnych studentów.
+3. VIP
+ otrzymuje bilety z odpowiednim paskiem zabezpieczaj¹cym (coœ jak na banknocie mo¿e, albo jakieœ tañsze zabezpieczenie, coœ fluorescencyjnego, no nie wiem, muszê pójœæ na stadion zobaczyæ)
+	takch biletów jest 100 i s¹ dawane osobom na wysokich stanowiskach, sponsorom, prezydentom, goœciom specjalnym etc.przy wchodzeniu, sprawdzenie tych zabezpieczeñ oraz dowodu osobistego, jeœli wszystko siê zgadza osoba vip wchodzi
+4. Osoba, z wyrokiem stadionowym chce kupiæ bilet w internecie (ba³¹ganiarz)
+a) podaje inne dane etc etc etc jak w punkcie w 1
+b) przy próbie wejœciu na stadion kamera wychwytuje jego twarz (zabronione jest noszenie czapek etc przy wchodzeniu, wiêc niemo¿liwe jest jego wejœcie na stadion, wyprowadzenie cz³owieka, ew. wezwanie policji
